@@ -1,0 +1,5 @@
+class Spice < ApplicationRecord
+
+end
+
+
